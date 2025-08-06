@@ -27,7 +27,7 @@ struct ContentView: View {
                     Image("play1")
                         .resizable()
                         .aspectRatio(contentMode: .fit)
-                        .frame(width: 300.0, height: 3`0.0)
+                        .frame(width: 300.0, height: 300.0)
                     Image("play2")
                         .resizable()
                         .aspectRatio(contentMode: .fit)
